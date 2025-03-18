@@ -17,6 +17,9 @@
       "MobsAPI": {
         "functional": true
       },
+      "InventoryAnalyseAPI": {
+        "functional": true
+      },
       "PvPAPI": {
         "functional": true
       },
