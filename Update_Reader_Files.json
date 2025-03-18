@@ -2,10 +2,10 @@
   "SSAPI": {
     "Version": "v1.0.0",
     "Api": {
-      "CommandAPI": {
+      "ConsoleAPI": {
         "functional": true
       },
-      "ConsoleAPI": {
+      "InventoryAnalyseAPI": {
         "functional": true
       },
       "ItemAPI": {
@@ -15,9 +15,6 @@
         "functional": true
       },
       "MobsAPI": {
-        "functional": true
-      },
-      "InventoryAnalyseAPI": {
         "functional": true
       },
       "PvPAPI": {
