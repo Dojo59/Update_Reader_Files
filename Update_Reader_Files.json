@@ -37,6 +37,9 @@
       },
       "ScoreboardAPI": {
         "functional": false
+      },
+      "SyncInvAPI": {
+        "functional": false
       }
     }
   }
