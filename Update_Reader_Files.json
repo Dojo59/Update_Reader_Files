@@ -39,7 +39,7 @@
         "functional": true
       },
       "SyncInvAPI": {
-        "functional": false
+        "functional": true
       }
     }
   }
