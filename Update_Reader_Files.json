@@ -27,7 +27,7 @@
         "functional": false
       },
       "DataBaseAPI": {
-        "functional": false
+        "functional": true
       },
       "FilesAPI": {
         "functional": true
@@ -36,7 +36,7 @@
         "functional": true
       },
       "ScoreboardAPI": {
-        "functional": false
+        "functional": true
       },
       "SyncInvAPI": {
         "functional": false
