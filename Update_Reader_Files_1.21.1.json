@@ -1,4 +1,4 @@
-{
+xperimental{
   "SSAPI": {
     "Version": "v1.21.1",
     "Api": {
@@ -15,7 +15,7 @@
         "functional": "true"
       },
       "MobsAPI": {
-        "functional": "bug"
+        "functional": "experimental"
       },
       "PvPAPI": {
         "functional": "true"
