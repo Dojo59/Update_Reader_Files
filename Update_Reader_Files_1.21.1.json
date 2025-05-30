@@ -1,6 +1,6 @@
 {
   "SSAPI": {
-    "Version": "v1.0.0",
+    "Version": "v1.21.1",
     "Api": {
       "ConsoleAPI": {
         "functional": true
