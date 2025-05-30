@@ -3,43 +3,43 @@
     "Version": "v1.21.1",
     "Api": {
       "ConsoleAPI": {
-        "functional": true
+        "functional": "true"
       },
       "InventoryAnalyseAPI": {
-        "functional": true
+        "functional": "experimental"
       },
       "ItemAPI": {
-        "functional": true
+        "functional": "false"
       },
       "JavaPluginAPI": {
-        "functional": true
+        "functional": "true"
       },
       "MobsAPI": {
-        "functional": true
+        "functional": "bug"
       },
       "PvPAPI": {
-        "functional": true
+        "functional": "true"
       },
       "StartAPI": {
-        "functional": true
+        "functional": "true"
       },
       "BungeeCordAPI": {
-        "functional": false
+        "functional": "false"
       },
       "DataBaseAPI": {
-        "functional": true
+        "functional": "maintenance"
       },
       "FilesAPI": {
-        "functional": true
+        "functional": "true"
       },
       "GuiAPI": {
-        "functional": true
+        "functional": "false"
       },
       "ScoreboardAPI": {
-        "functional": true
+        "functional": "false"
       },
       "SyncInvAPI": {
-        "functional": true
+        "functional": "experimental"
       }
     }
   }
