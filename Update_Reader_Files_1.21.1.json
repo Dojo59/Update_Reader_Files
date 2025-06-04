@@ -15,7 +15,7 @@
         "functional": "true"
       },
       "MobsAPI": {
-        "functional": "experimental"
+        "functional": "maintenance"
       },
       "PvPAPI": {
         "functional": "true"
@@ -27,13 +27,13 @@
         "functional": "false"
       },
       "DataBaseAPI": {
-        "functional": "maintenance"
+        "functional": "experimental"
       },
       "FilesAPI": {
         "functional": "true"
       },
       "GuiAPI": {
-        "functional": "false"
+        "functional": "maintenance"
       },
       "ScoreboardAPI": {
         "functional": "false"
