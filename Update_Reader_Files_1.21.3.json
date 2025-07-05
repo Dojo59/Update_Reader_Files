@@ -1,0 +1,46 @@
+{
+  "SSAPI": {
+    "Version": "v1.21.3",
+    "Api": {
+      "ConsoleAPI": {
+        "functional": "true"
+      },
+      "InventoryAnalyseAPI": {
+        "functional": "experimental"
+      },
+      "ItemAPI": {
+        "functional": "false"
+      },
+      "JavaPluginAPI": {
+        "functional": "experimental"
+      },
+      "MobsAPI": {
+        "functional": "maintenance"
+      },
+      "PvPAPI": {
+        "functional": "true"
+      },
+      "StartAPI": {
+        "functional": "true"
+      },
+      "BungeeCordAPI": {
+        "functional": "false"
+      },
+      "DataBaseAPI": {
+        "functional": "experimental"
+      },
+      "FilesAPI": {
+        "functional": "true"
+      },
+      "GuiAPI": {
+        "functional": "maintenance"
+      },
+      "ScoreboardAPI": {
+        "functional": "false"
+      },
+      "SyncInvAPI": {
+        "functional": "experimental"
+      }
+    }
+  }
+}
